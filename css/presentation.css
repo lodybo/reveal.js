@@ -13,3 +13,10 @@
 .inline-block {
   display: inline-block;
 }
+
+div.iframe {
+  width: 450px;
+  height: 700px;
+
+  margin: 0 auto;
+}
